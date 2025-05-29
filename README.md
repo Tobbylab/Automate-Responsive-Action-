@@ -16,11 +16,13 @@ C.Test Machine Windows Server ( TobiTestLab)
 
 <img width="2436" alt="Image" src="https://github.com/user-attachments/assets/3fd59b32-e336-49a1-96ce-b6805d3cdd8d" />
 
-An attacker is on the internet essentially scanning and finds test machine has the right credentials and successful authenticates, then generates a Splunk alert ( i will be sending telemetry from test machine to Splunk server)
 
+An external attacker scans the internet and discovers the test machine . Upon identifying valid credentials the attacker successfully authenicates .This activity triggers a Splunk alert , as telemetry from the test machine is being sent to the Splunk Server 
 Then Splunk send a notification to slack ( indicating something has happened)
 
+
 Will also trigger a plaaybook to Shuffle which will also send an email notification to Soc Analyst asking if they want to Disable users.
+
 
 If Soc Analyst say No nothing will be done 
 
@@ -123,7 +125,9 @@ Next Install application , Splunk add on for windows
 
 
 
-Next Step is to Install universal forwared and recieving on both windows machine in other to send data to Splunk 
+
+
+Next Step is to Install universal forwarder and recieving on both windows machine in other to send data to Splunk 
 
 
 
