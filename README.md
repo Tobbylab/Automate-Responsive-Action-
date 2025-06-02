@@ -70,9 +70,6 @@ Install and Configure Active Diectory into window server (MYTOBILAB-ADDC01)
 
 
 
-<img width="1882" alt="Image" src="https://github.com/user-attachments/assets/1aca6e4c-9262-4e66-9ba6-84c8e4a08f77" />
-
-
 
 <img width="1340" alt="Image" src="https://github.com/user-attachments/assets/79ad7e7a-b188-4992-a56b-aa8f45b26cfb" />
 
@@ -84,6 +81,9 @@ Install and Configure Active Diectory into window server (MYTOBILAB-ADDC01)
 
 <img width="1109" alt="Image" src="https://github.com/user-attachments/assets/6d55450a-c380-46f8-a7ea-2abd7765c45f" />
 
+
+
+<img width="1882" alt="Image" src="https://github.com/user-attachments/assets/1aca6e4c-9262-4e66-9ba6-84c8e4a08f77" />
 
 
 
