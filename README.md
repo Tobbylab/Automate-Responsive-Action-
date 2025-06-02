@@ -159,7 +159,7 @@ Create an alert that detect successful authenication
 
 
 
-You Observe there data moving from TOBITESTLAB into Splunk 
+You can observe there data moving from TOBITESTLAB into Splunk 
 
 
 
@@ -177,7 +177,9 @@ You Observe there data moving from TOBITESTLAB into Splunk
 
 
 
+
 Alert is Created 
+
 
 
 <img width="2550" alt="Image" src="https://github.com/user-attachments/assets/2bfc7a7f-ada6-4b5b-bcb1-734b330c0c8b" />
@@ -185,9 +187,13 @@ Alert is Created
 
 
 
+
+
 Integrate SLACK and SHUFFLE ( Build Mini Resposive Playblook 
 
-Goal is disable user if Unauthorised Siccefful Login RDP
+
+Goal is disable user, if Unauthorised Succefful Login RDP is detected
+
 
 SPLunk Alerts will be connected to Slack, send a notification Slack 
 
