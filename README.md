@@ -21,7 +21,7 @@ An external attacker scans the internet and discovers the test machine . Upon id
 Then Splunk send a notification to slack ( indicating something has happened)
 
 
-Will also trigger a plaaybook to Shuffle which will also send an email notification to Soc Analyst asking if they want to Disable users.
+Will also trigger a playbook to Shuffle which will also send an email notification to Soc Analyst asking if they want to Disable users.
 
 
 If Soc Analyst say No nothing will be done 
