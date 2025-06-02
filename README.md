@@ -9,9 +9,9 @@ I Created 3 virtual machines on Vultr Doman
 
 A.Splunk Ubuntu Server (Tobilab-Splunk)
 
-B. Domain Controller Windows Server ( MYTOBIlab-ADDC01)
+B. Domain Controller Windows Server (MYTOBIlab-ADDC01)
 
-C.Test Machine Windows Server ( TobiTestLab)
+C.Test Machine Windows Server (TobiTestLab)
 
 
 <img width="2436" alt="Image" src="https://github.com/user-attachments/assets/3fd59b32-e336-49a1-96ce-b6805d3cdd8d" />
@@ -26,13 +26,17 @@ Will also trigger a playbook to Shuffle which will also send an email notificati
 
 If Soc Analyst say No nothing will be done 
 
-If Soc analyst say Yes ( will instruct shuffle to move to the next step, which is instructing the domain controller to disable domain user.
+If Soc analyst say Yes ( will instruct shuffle to move to the next step, which is instructing the domain controller to disable domain user).
+
 
 Install and Configure Splunk
 
+
 Send Telemetry from windows
 
+
 Create an that detect successful authentication 
+
 
 <img width="2390" alt="Image" src="https://github.com/user-attachments/assets/9888aef1-d82d-4ee1-bc75-344efa495061" />
 
