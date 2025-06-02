@@ -6,11 +6,14 @@ Start by creating logical diagram ( how i want to build up my lab) using Vultr v
 
 <img width="2281" alt="Image" src="https://github.com/user-attachments/assets/642d9ad8-a4e0-435c-a1c7-9b10476d04eb" />
 
-I Created 3 virtual machines on Vultr Doman 
+I Created 3 virtual machines on Vultr Domain in cloud
+
 
 A.Splunk Ubuntu Server (Tobilab-Splunk)
 
+
 B. Domain Controller Windows Server (MYTOBIlab-ADDC01)
+
 
 C.Test Machine Windows Server (TobiTestLab)
 
