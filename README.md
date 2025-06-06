@@ -39,7 +39,7 @@ Install and Configure Splunk
 Send Telemetry from windows
 
 
-Create an that detect successful authentication 
+Create an alert that detect successful authentication 
 
 
 <img width="2390" alt="Image" src="https://github.com/user-attachments/assets/9888aef1-d82d-4ee1-bc75-344efa495061" />
