@@ -4,7 +4,8 @@ Active Directory Project - The goal of this project is to create an active direc
 
 Start by creating logical diagram ( how i want to build up my lab) using Vultr virtual 
 
-<img width="2281" alt="Image" src="https://github.com/user-attachments/assets/642d9ad8-a4e0-435c-a1c7-9b10476d04eb" />
+<img width="2308" alt="Image" src="https://github.com/user-attachments/assets/354996c3-2003-4a9c-b44c-2c8f6defd3e2" />
+
 
 I Created 3 virtual machines on Vultr Domain in cloud
 
